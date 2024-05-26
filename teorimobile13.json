@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Lionel Messi",
+      "birth_date": "1987-06-24",
+      "Position": "Forward",
+      "International": "Argentina",
+      "Team": "Paris Saint-Germain",
+      "Poster": "https://i.postimg.cc/NjLbm9HD/messi.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Cristiano Ronaldo",
+      "birth_date": "1985-02-05",
+      "Position": "Forward",
+      "International": "Portugal",
+      "Team": "Al-Nassr",
+      "Poster": "https://i.postimg.cc/m2XQ9kqC/ronaldo.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Neymar Jr.",
+      "birth_date": "1992-02-05",
+      "Position": "Forward",
+      "International": "Brazil",
+      "Team": "Paris Saint-Germain",
+      "Poster": "https://i.postimg.cc/NjXJPRJj/neymar.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Kylian Mbappé",
+      "birth_date": "1998-12-20",
+      "Position": "Forward",
+      "International": "France",
+      "Team": "Paris Saint-Germain",
+      "Poster": "https://i.postimg.cc/7YCkXkQH/mbappe.jpg"
+    },
+    {
+      "no": "5",
+      "name": "Mohamed Salah",
+      "birth_date": "1992-06-15",
+      "Position": "Forward",
+      "International": "Egypt",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/2y7s5N8r/salah.jpg"
+    },
+    {
+      "no": "6",
+      "name": "Kevin De Bruyne",
+      "birth_date": "1991-06-28",
+      "Position": "Midfielder",
+      "International": "Belgium",
+      "Team": "Manchester City",
+      "Poster": "https://i.postimg.cc/qRMKbL4v/de-bruyne.jpg"
+    },
+    {
+      "no": "7",
+      "name": "Virgil van Dijk",
+      "birth_date": "1991-07-08",
+      "Position": "Defender",
+      "International": "Netherlands",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/pTrNs4LJ/van-dijk.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Sergio Ramos",
+      "birth_date": "1986-03-30",
+      "Position": "Defender",
+      "International": "Spain",
+      "Team": "Paris Saint-Germain",
+      "Poster": "https://i.postimg.cc/4yN9qMj2/ramos.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Luka Modric",
+      "birth_date": "1985-09-09",
+      "Position": "Midfielder",
+      "International": "Croatia",
+      "Team": "Real Madrid",
+      "Poster": "https://i.postimg.cc/B68jNGVk/modric.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Robert Lewandowski",
+      "birth_date": "1988-08-21",
+      "Position": "Forward",
+      "International": "Poland",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/3xTVShpP/lewandowski.jpg"
+    }
+  ]
+}
